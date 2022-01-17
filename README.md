@@ -23,3 +23,9 @@
 #### Requirements:
 ##### Python 3.10
 ##### MYPY 0.761
+
+---
+
+#### Future plans:
+##### - make it compatible with classes
+##### - make it work without mypy and without python 3.10
